@@ -1,5 +1,5 @@
 const BASEURL = "https://www.easy-mock.com/mock/5c6fa27c80f4a77ad5480c5a/vuemall"
-const LOCAURL = "http://localhost:3000/api"
+const LOCAURL = "/api"
 const URL = {
     getShoppingMallInfo: BASEURL + '/index', //商城首页所有信息
     getGoodsInfo: BASEURL + '/getGoodsInfo',

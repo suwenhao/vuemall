@@ -52,4 +52,4 @@ app.use(router.routes());
 app.use(router.allowedMethods());
 
 //启动服务器
-app.listen(3000,(err)=>console.log('http://localhost:3000'));
+app.listen(3006,(err)=>console.log('http://localhost:3006'));
